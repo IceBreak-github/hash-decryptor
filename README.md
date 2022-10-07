@@ -1,5 +1,5 @@
 # Hash Decryptor
-Simple Python script for decrypting hashes using the rockyou wordlist
+Simple Python script for reversing hashes using the rockyou wordlist
 
 You can download the wordlist here: https://www.mediafire.com/file/tnwej1wnk0b5ntc/rockyou.txt/file
 - Place it in the same directory as the script
